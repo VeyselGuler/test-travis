@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("travisTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed792933e754185352245bf5c5722798c4f109b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("travisTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("travisTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

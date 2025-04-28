@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/veyselmor/Desktop/works/travisTest/travisTest.csproj",
+      "projectUniqueName": "/Users/veyselmor/Desktop/works/test-travis/travisTest.csproj",
       "projectName": "travisTest",
-      "projectPath": "/Users/veyselmor/Desktop/works/travisTest/travisTest.csproj",
+      "projectPath": "/Users/veyselmor/Desktop/works/test-travis/travisTest.csproj",
       "packagesPath": "/Users/veyselmor/.nuget/packages/",
-      "outputPath": "/Users/veyselmor/Desktop/works/travisTest/obj/",
+      "outputPath": "/Users/veyselmor/Desktop/works/test-travis/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/veyselmor/.nuget/NuGet/NuGet.Config"
