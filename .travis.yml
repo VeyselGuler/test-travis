@@ -1,5 +1,8 @@
 language: csharp
-dotnet:
-  - 8.0
-  - 7.0
-mono: none
+mono: latest
+solution: travisTest.sln  # Çözüm dosyanızın adı
+install:
+  - sudo apt-get install mono-complete  # Mono'yu yükler
+  - nuget restore MySolution.sln  # NuGet paketlerini indirir
+script:
+  - xbuild travisTest.sln # Projeyi derler
